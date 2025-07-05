@@ -12,6 +12,8 @@ public class Array {
         Arr1.add(7);
         Arr1.add(9);
         System.out.println(Arr1.size());
-        
+        Arr1.remove(3);
+        System.out.println(Arr1.size());
+
     }
 }
