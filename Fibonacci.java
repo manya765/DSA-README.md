@@ -11,8 +11,8 @@ public class Fibonacci {
         while (Sum<=n) {
              Sum= a+b;
             System.out.println(Sum);
-            b= Sum;
             a=b;
+            b = Sum;
            
         }
     }
