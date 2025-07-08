@@ -4,6 +4,17 @@ public class Array {
        Scanner sc = new Scanner(System.in);
        int a = sc.nextInt();
        int b = sc.nextInt();
-       System.out.println("The sum of a snd b is "+ (a+b));
+       int c = sc.nextInt();
+      // int Max= Math.max(c,Math.max(a,b)); // function approach
+       //System.out.println("The largest no. is "+ Max);
+       // loop aproach
+       int Max= a;
+       if(Max<b){
+        Max=b;
+       }
+       if (Max<c){
+        Max=c;
+       }
+       System.out.println(Max);
     }
 }
