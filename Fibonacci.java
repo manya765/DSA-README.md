@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Fibonacci {
-    public static void main(String[] args) {
+    public static void main(Str[] args) {
         // to input the limit
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Eligible {
-    public static void main(String[] args) {
+    public static void main(Str[] args) {
         Vote(20);
     }
     public static void Vote(int age){

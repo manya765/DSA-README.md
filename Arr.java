@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class Arr {
-    public static void main(String[] args) {
+    public static void main(Str[] args) {
         int[] Arr1={2,3,4,5,6};
         change(Arr1);
         System.out.println(Arrays.toString(Arr1));

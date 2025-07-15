@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class One {
-    public static void main(String[] args) {
+    public static void main(Str[] args) {
         Scanner sc = new Scanner(System.in);
         // defining the array 
         int[] arr1;  // this is just the reference variable -> in stack memory

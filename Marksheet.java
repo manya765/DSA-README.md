@@ -1,5 +1,5 @@
 public class Marksheet {
-    public static void main(String[] args) {
+    public static void main(Str[] args) {
         Marks(80);
         Marks(91);
     }

@@ -1,5 +1,5 @@
 public class Area {
-    public static void main(String[] args) {
+    public static void main(Str[] args) {
         Circle(8);
     }
     public static void Circle(int r){

@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 public class Switch {
-    public static void main(String[] args) {
+    public static void main(Str[] args) {
         Scanner sc= new Scanner(System.in);
-        String n = sc.next();
-        String m = sc.next();
+        Str n = sc.next();
+        Str m = sc.next();
       /*   switch(n){
         case "Apple":
         {

@@ -1,5 +1,5 @@
 public class Factorial {
-    public static void main(String[] args) {
+    public static void main(Str[] args) {
         Fact(5);
     }
     public static void Fact(int a ){

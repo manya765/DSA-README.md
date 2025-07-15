@@ -1,5 +1,5 @@
 public class Even {
-    public static void main(String[] args) {
+    public static void main(Str[] args) {
         Odd(8);
     }
     public static void Odd(int n){

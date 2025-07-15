@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Counting {
-    public static void main(String[] args) {
+    public static void main(Str[] args) {
         int n = 12349485;
         int count=0;
         while(n!=0){

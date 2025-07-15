@@ -12,7 +12,7 @@ public class Running {
         
         
     }
-     public static void main(String[] args) {
+     public static void main(Str[] args) {
         int[] num={1,2,3,4};
         runningSum(num);
      }

@@ -1,5 +1,5 @@
 public class Product {
-    public static void main(String[] args) {
+    public static void main(Str[] args) {
         Prod(2,3);
     }
     public static void Prod(int a , int b){
