@@ -13,5 +13,11 @@ public class Str {
         // String is immutable due to safety reasons but we point the reference variable to another object
         sr="heyy";
         System.out.println(sr);
+        // how .tostring is used for printing in Printstream
+        System.out.println(23); // internally the printstream contains a method which converts the integer into a string and prints it 
+        // everything in the printstrram is convert into an array wherther it is a character ,int or any other variable in only array we use 
+        // Arrays.toString here we are referring to a method in array not in strings
+        // PRETTY PRINITNG use in cp to show nicely like
+        
     }
 }
