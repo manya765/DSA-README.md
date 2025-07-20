@@ -5,6 +5,6 @@ public class Pretty {
         // means the value will take the place of the % sign
         System.out.printf("Pie:%.3f",Math.PI);// printf is used instead of println
         // there are different place holders for different datatypes
-        System.out.printf("My name is %s","rahul");
+        
     }
 }
