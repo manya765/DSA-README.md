@@ -11,8 +11,8 @@ public class Arraylist {
         arr.set(1,"uuu");//use for updating an element
         // for printing
         System.out.println(arr.get(2));
-        for(int i:arr){
-            System.out.println(arr.get));
+        for(String i:arr){
+            System.out.println(i);
         }
     }
 }
